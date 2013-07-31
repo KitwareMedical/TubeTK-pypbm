@@ -1,0 +1,10 @@
+{
+    "BRAINSFit" :               "/Applications/Slicer.app/Contents/cli-modules/BRAINSFit",
+    "BRAINSResample" :          "/Applications/Slicer.app/Contents/cli-modules/BRAINSResample",
+    "c3d" :                     "/Users/rkwitt/Software/c3d-0.8.2-Darwin-i386/bin/c3d",
+    "ResampleScalarVolume" :    "/Applications/Slicer.app/Contents/cli-modules/ResampleScalarVolume",
+    "TubesToImage" :            "/Users/rkwitt/Kitware/TubeTK/Build/TubeTK-Build/bin/TubesToImage",
+    "TubeTransform" :           "/Users/rkwitt/Kitware/TubeTK/Build/TubeTK-Build/bin/TubeTransform",
+    "ANTS" :                    "/Users/rkwitt/Software/ANTS/Build/bin/ANTS",
+    "WarpImageMultiTransform" : "/Users/rkwitt/Software/ANTS/Build/bin/WarpImageMultiTransform"
+}
