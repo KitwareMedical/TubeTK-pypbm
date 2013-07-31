@@ -1,7 +1,8 @@
-pypbm
-=====
+Python Pattern Based Morphometry
+================================
 
-pypbm (Python Pattern Based Morphometry) is a Python package to study population differences in vasculature using ideas from the field of (pattern-based) brain morphometry.
+pypbm implements a set of tools to study population differences in vasculature using ideas from the field 
+of (pattern-based) brain morphometry.
 
 ## Contents
 - [What problem are we trying to solve](#problemstatement)
